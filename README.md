@@ -4,6 +4,7 @@ Tips and tricks to make the switch from linux/android easier.
 ##MacOS##  
 
 **Problem**: Access to GNU tools + easy way to update applications  
+
 **Solution**: Homebrew and Homebrew cask. Cask does not update outdated packages as of yet. 
 
 use this script to upgrade all casks
