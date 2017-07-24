@@ -1,7 +1,7 @@
-#Living-with-macos-and-ios
+# Living-with-macos-and-ios
 Tips and tricks to make the switch from linux/android easier. 
 
-##MacOS##  
+## MacOS
 
 **Problem**: Access to GNU tools + easy way to update applications  
 
@@ -19,7 +19,7 @@ for token in "$@"; do
     brew cask uninstall --force "$token" && brew cask   install "$token"
 done
 ```
-##iOS## 
+## iOS
 
 **Problem**: even with iOS 11 beta there is no way to synchronize batches of files for offline use   
 
