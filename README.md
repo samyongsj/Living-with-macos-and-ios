@@ -31,3 +31,6 @@ done
 
 **Problem**: no access to debian no-root, unable to use mathics  
 still no solution.
+
+## Other scripts and stuff
+Added script for changing srt files from youtube to txt files without timestamps and line numbers (i.e. readable text form).
