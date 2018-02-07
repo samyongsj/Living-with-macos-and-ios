@@ -21,16 +21,17 @@ done
 ```
 ## iOS
 
-**Problem**: even with iOS 11 beta there is no way to synchronize batches of files for offline use   
+**Problem**: Even with iOS 11 beta there is no way to synchronize batches of files for offline use   
 
-**Solution**: Download Documents 6 and set up folders for synchonization. Seriously what is Apple doing with their files application I hope it doesn't remain like that when iOS 11 comes out of beta.  
+**Solution**: Download Documents 6 and set up folders for synchonization. 
 
-**Problem**: no access to debian no-root, unable to use youtube-dl  
+**Problem**: No access to debian no-root, unable to use youtube-dl  
 
 **Solution**: Download Pythonista + StaSh - use pip to install youtube-dl. Download as per normal and share to Documents 6
 
-**Problem**: no access to debian no-root, unable to use mathics  
-still no solution.
+**Problem**: No access to debian no-root, unable to use mathics  
+
+**Solution**: Use Termius to SSH into another machine. No way to get a chroot linux unlike on android. =(
 
 ## Other scripts and stuff
 Added script for changing srt files from youtube to txt files without timestamps and line numbers (i.e. readable text form).
